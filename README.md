@@ -18,3 +18,5 @@ Create a new folder in your /usr/local directory called "include54" and copy the
 ## Description
 
 This program attempts to imitate Kux's programs using Krux, a more polished version of the Kux libraries.
+
+This makes the logic seem much simpler, while lowering the bloat code from Kux.
