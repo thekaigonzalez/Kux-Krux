@@ -14,7 +14,9 @@
 
 package.cpath = "/usr/local/include54/?.so;/usr/local/include54/?.dll"
 
-local krux = require("krux")
+-- [[ USE THE EXTRAS SCRIPT, THIS ALLOWS SPLITTING!!! ]]
+krux = require("extras")
+
 
 -- check if Krux supports the READLINE api
 local cndinp = false
